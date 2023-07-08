@@ -1,4 +1,4 @@
-# Hello, I'm Muhammed Raihan P A!
+# Hello, I'm Raihan !
 
 ## Projects
 
