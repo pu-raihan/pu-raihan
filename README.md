@@ -27,15 +27,15 @@
 <div align="center">
 <table ">
   <tr>
-    <td width="400"> <div align="center"> <img height="100" src="https://github.com/pu-raihan/CamBuzz/blob/main/client/public/LightRound.png" /> </div> </td>
+    <td width="400"> <div align="center"> <a href="https://github.com/pu-raihan/CamBuzz" target="_blank"> <img height="100" src="https://github.com/pu-raihan/CamBuzz/blob/main/client/public/LightRound.png" /> </a></div> </td>
     <td width="400"> <a href="https://github.com/pu-raihan/CamBuzz">CamBuzz</a>: Social Media and Resource locator exclusively for PU scholars and faculties based on <i>React.Js</i>. </td>
   </tr>
   <tr>
-    <td > <div align="center"> <img height="100" src="https://github.com/pu-raihan/ProjectChain/blob/main/public/roundicon.png" /> </td>
+    <td > <div align="center"> <a href="https://github.com/pu-raihan/ProjectChain" target="_blank"> <img height="100" src="https://github.com/pu-raihan/ProjectChain/blob/main/public/roundicon.png" /> </a></div></td>
     <td> <a href="https://github.com/pu-raihan/ProjectChain">ProjectChain</a>: Blockchain of projects of university scholars.</td>
   </tr>
   <tr>
-    <td > <div align="center"> <img height="100" src="https://github.com/pu-raihan/FindYourDorm/blob/master/FYD/app/src/main/res/drawable/ricon.png" /> </td>
+    <td > <div align="center"> <a href="https://github.com/pu-raihan/FindYourDorm" target="_blank"> <img height="100" src="https://github.com/pu-raihan/FindYourDorm/blob/master/FYD/app/src/main/res/drawable/ricon.png" /> </a></div></td>
     <td> <a href="https://github.com/pu-raihan/FindYourDorm">FindYourDorm</a>: Mobile application that helps to find locally available rental rooms and cottages for staying near Farook College. </td>
   </tr>
 </table>
