@@ -6,8 +6,8 @@
 <br>
 <h2 align="center"> Contact</h2>
 <br>
-<div align="center"> I'm always open to interesting discussions, collaborations, and new opportunities.<br> You can reach out to me via: </div><br>
-
+<div align="center"> I'm always open to interesting discussions, collaborations, and new opportunities.<br> You can reach out to me via: </div>
+<br>
 <div align="center"> 
   <a href="mailto:raihanbinmary@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-341233?style=for-the-badge&logo=gmail&logoColor=fff" />
@@ -20,9 +20,7 @@
   </a>
 </div>
 <br>
-  <br>
   <hr>
-  <br>
 <h2 align="center"> Projects</h2>
 <br>
 <div align="center">
@@ -44,9 +42,7 @@
 <br>
 <div align="center"> Feel free to explore each project's repository for more details, source code, and documentation.</div>
 <br>
-  <br>
   <hr>
-  <br>
 <h2 align="center"> Stats </h2>
 <br>
 <div align=center>
@@ -57,16 +53,11 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pu-raihan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
   <br>
-  <br>
   <hr>
-  <br>
 <div align="center">
   <h2> Contributions </h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pu-raihan/pu-raihan/output/github-contribution-snake-dark.svg" />
-  <br/>
-  <br/>
 </div>
-  <hr>
   <br/>
+  <hr>
 <div align="center"> Thanks for visiting my GitHub profile. Happy coding! </div>
