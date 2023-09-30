@@ -21,3 +21,9 @@ I'm always open to interesting discussions, collaborations, and new opportunitie
 Feel free to connect with me and let's get in touch!
 
 Thanks for visiting my GitHub profile. Happy coding!
+
+### Snake eating my contributions 🐍:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurentiucozma12/laurentiucozma12/b6cefefa997f63e8b523dc66bc9a66f70fa22905/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/laurentiucozma12/laurentiucozma12/b6cefefa997f63e8b523dc66bc9a66f70fa22905/github-contribution-grid-snake-dark.svg" />
+</picture>
