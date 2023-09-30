@@ -20,6 +20,7 @@
   </a>
 </div>
 <br>
+
   <hr>
 <h2 align="center"> Projects</h2>
 <br>
@@ -42,6 +43,7 @@
 <br>
 <div align="center"> Feel free to explore each project's repository for more details, source code, and documentation.</div>
 <br>
+        
   <hr>
 <h2 align="center"> Stats </h2>
 <br>
@@ -53,11 +55,21 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pu-raihan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
   <br>
+        
   <hr>
 <div align="center">
   <h2> Contributions </h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pu-raihan/pu-raihan/output/github-contribution-snake-dark.svg" />
 </div>
   <br/>
+  
+ <hr/>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nodejs,javascript,express,php,firebase,mysql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,solidity,ipfs,selenium,bash,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,netlify,electron,nextjs,vite,androidstudio,vscode,github,git" />
+</div>
   <hr>
 <div align="center"> Thanks for visiting my GitHub profile. Happy coding! </div>
