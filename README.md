@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=pu-raihan&label=Recent&color=10&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=pu-raihan&label=Visits&labelColor=%23441133&countColor=%23353345" />
 <br>
 <div align="center">
