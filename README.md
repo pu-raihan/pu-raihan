@@ -28,7 +28,7 @@
 <div align="center">
 <table ">
   <tr>
-    <td width="400"> <div align="center"> <a href="https://github.com/pu-raihan/CamBuzz" target="_blank"> <img height="100" src="https://github.com/pu-raihan/CamBuzz/blob/tailwind/client/public/LightRound.png" /> </a></div> </td>
+    <td width="400"> <div align="center"> <a href="https://github.com/pu-raihan/CamBuzz" target="_blank"> <img height="100" src="https://github.com/pu-raihan/CamBuzz/blob/tailwind/client/public/darkRing.png" /> </a></div> </td>
     <td width="400"> <a href="https://github.com/pu-raihan/CamBuzz">CamBuzz</a>: Social Media and Resource locator exclusively for PU scholars and faculties based on <i>React.Js</i>. </td>
   </tr>
   <tr>
