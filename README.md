@@ -68,9 +68,9 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nodejs,javascript,express,php,firebase,mysql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,vite,html,css,tailwind,javascript,firebase,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,solidity,ipfs,selenium,bash,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,netlify,electron,nextjs,vite,androidstudio,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=linux,netlify,electron,nextjs,androidstudio,vscode,github,git" />
 </div>
   <hr>
 <div align="center"> Thanks for visiting my GitHub profile. Happy coding! </div>
