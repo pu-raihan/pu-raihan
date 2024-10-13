@@ -10,13 +10,13 @@
 <div align="center"> I'm always open to interesting discussions, collaborations, and new opportunities.<br> You can reach out to me via: </div>
 <br>
 <div align="center"> 
-  <a href="mailto:raihanbinmary@gmail.com">
+  <a href="mailto:raihan@tridz.com">
     <img src="https://img.shields.io/badge/Gmail-341233?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
   <a href="https://linkedin.com/in/raihan-io" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-341233?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/raihan.io" target="_blank">
+  <a href="https://instagram.com/raihan.io" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-341233?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
