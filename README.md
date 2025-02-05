@@ -28,6 +28,26 @@
 <div align="center">
 <table ">
   <tr>
+    <td width="400"> <div align="center"> <a href="https://wahatalromman.com" target="_blank"> <img height="100" src="https://wahatalromman.com/logo.png" /> </a></div> </td>
+    <td width="400"> <a target="_blank" href="https://wahatalromman.com">Wahat Al Romman</a>: Public website for a Food Stuffs company based in UAE. </td>
+  </tr>
+  <tr>
+    <td > <div align="center"> <a href="https://github.com/tridz-dev/quick_kanban" target="_blank"> <img height="100" src="https://github.com/user-attachments/assets/cce2351e-3383-4532-84d1-7461e732e6f2" /> </a></div></td>
+    <td> <a href="https://github.com/tridz-dev/quick_kanban">Quick Kanban</a>: A <a href="https://github.com/frappe">Frappe</a> App for better performance and an improved user experience, especially for instances with a high volume of Kanban cards and frequent updates..</td>
+  </tr>
+  <tr>
+    <td > <div align="center"> <a href="#" target="_blank"> <img height="100" src="https://github.com/user-attachments/assets/cce2351e-3383-4532-84d1-7461e732e6f2" /> </a></div></td>
+    <td> FileFlo: A Frappe-based file and information flow system which have a form for collecting information and documents. </td>
+  </tr>
+</table>
+    </div>
+        
+  <hr>
+<h2 align="center">Academic Projects</h2>
+<br>
+<div align="center">
+<table ">
+  <tr>
     <td width="400"> <div align="center"> <a href="https://github.com/pu-raihan/CamBuzz" target="_blank"> <img height="100" src="https://github.com/pu-raihan/CamBuzz/blob/tailwind/client/public/darkRing.png" /> </a></div> </td>
     <td width="400"> <a href="https://github.com/pu-raihan/CamBuzz">CamBuzz</a>: Social Media and Resource locator exclusively for PU scholars and faculties based on <i>React.Js</i>. </td>
   </tr>
