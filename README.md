@@ -80,6 +80,7 @@
   <hr>
 <div align="center">
   <h2> Contributions </h2>
+    <a href="https://github.com/pulls?q=is%3Apr+author%3Apu-raihan+archived%3Afalse+is%3Amerged+user%3Afrappe" ><span>Open Source contributions</span></a>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pu-raihan/pu-raihan/output/github-contribution-snake-dark.svg" />
 </div>
   <br/>
