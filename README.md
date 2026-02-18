@@ -5,8 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&color=A99A8C&width=500&height=70&duration=3000&lines=Hello+!+I'm+Raihan+!;" />
 </div>
 <br>
-<h2 align="center"> Contact</h2>
-<br>
+
+<div align="center">
+    <a href="https://raihan.app/">
+        <img width="800" height="380" alt="image" src="https://github.com/user-attachments/assets/442bcaa4-a11e-452c-a137-54f0c64c9f99" />
+    </a>
+</div>
 <div align="center"> I'm always open to interesting discussions, collaborations, and new opportunities.<br> You can reach out to me via: </div>
 <br>
 <div align="center"> 
@@ -28,6 +32,18 @@
 <div align="center">
 <table ">
   <tr>
+    <td width="400">
+        <div align="center">
+            <a href="https://altadhamanmedicalcenter.com" target="_blank">
+                <img height="100" src="https://github.com/user-attachments/assets/661c283c-6cc3-47bb-b428-8d091f577051" />
+            </a>
+        </div>
+    </td>
+    <td width="400">
+        <a target="_blank" href="https://altadhamanmedicalcenter.com">Al Tadhaman</a>: Public website for a Dental Care Center in Oman.
+    </td>
+  </tr>
+  <tr>
     <td width="400"> <div align="center"> <a href="https://wahatalromman.com" target="_blank"> <img height="100" src="https://wahatalromman.com/logo.png" /> </a></div> </td>
     <td width="400"> <a target="_blank" href="https://wahatalromman.com">Wahat Al Romman</a>: Public website for a Food Stuffs company based in UAE. </td>
   </tr>
@@ -48,8 +64,28 @@
 <div align="center">
 <table ">
   <tr>
-    <td width="400"> <div align="center"> <a href="https://github.com/pu-raihan/CamBuzz" target="_blank"> <img height="100" src="https://github.com/pu-raihan/CamBuzz/blob/tailwind/client/public/darkRing.png" /> </a></div> </td>
-    <td width="400"> <a href="https://github.com/pu-raihan/CamBuzz">CamBuzz</a>: Social Media and Resource locator exclusively for PU scholars and faculties based on <i>React.Js</i>. </td>
+    <td width="400">
+        <div align="center">
+            <a href="https://github.com/pu-raihan/InternGenie" target="_blank">
+                <img height="100" src="https://github.com/pu-raihan/InternGenie/blob/dev/public/icon.png" />
+            </a>
+        </div>
+    </td>
+    <td width="400">
+        <a href="https://github.com/pu-raihan/InternGenie">InternGenie</a>: An AI platform providing personalized job recommendations by analyzing users' skills, interests, and resumes.
+    </td>
+  </tr>
+  <tr>
+    <td width="400">
+        <div align="center">
+            <a href="https://github.com/pu-raihan/CamBuzz" target="_blank">
+                <img height="100" src="https://github.com/pu-raihan/CamBuzz/blob/tailwind/client/public/darkRing.png" />
+            </a>
+        </div>
+    </td>
+    <td width="400">
+        <a href="https://github.com/pu-raihan/CamBuzz">CamBuzz</a>: Social Media and Resource locator exclusively for PU scholars and faculties based on <i>React.Js</i>.
+    </td>
   </tr>
   <tr>
     <td > <div align="center"> <a href="https://github.com/pu-raihan/ProjectChain" target="_blank"> <img height="100" src="https://github.com/pu-raihan/ProjectChain/blob/main/public/roundicon.png" /> </a></div></td>
