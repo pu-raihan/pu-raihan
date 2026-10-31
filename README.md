@@ -42,7 +42,7 @@
 <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=pu-raihan&count_private=true&show_icons=true&rank_icon=github&hide_border=false&border_radius=18&bg_color=111827&border_color=1f2a44&title_color=a78bfa&text_color=e5e7eb&icon_color=06b6d4&ring_color=7c3aed" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pu-raihan&hide=HTML&langs_count=8&layout=compact&border_radius=18&bg_color=111827&border_color=1f2a44&title_color=a78bfa&text_color=e5e7eb&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
 
-<img width="98%" src="https://streak-stats.demolab.com/?user=pu-raihan&count_private=true&border_radius=18&background=111827&stroke=1f2a44&ring=7c3aed&fire=06b6d4&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=94a3b8" alt="Streak stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=pu-raihan&count_private=true&border_radius=18&background=111827&stroke=1f2a44&ring=7c3aed&fire=06b6d4&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=94a3b8" alt="Streak stats" />
 
 <br/>
 
@@ -55,6 +55,6 @@
 <img src="assets/h-contact.svg" alt="Contact" width="100%" />
 <img src="assets/contact.svg" alt="Let's build something together" width="100%" />
 
-<img src="assets/footer.svg" alt="Thanks for visiting" width="100%" />
+<img src="assets/footer.svg" alt="Designed by Raihan" width="100%" />
 
 </div>
