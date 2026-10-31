@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="210" height="52" viewBox="0 0 210 52" role="img" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs><rect x=".5" y=".5" width="209" height="51" rx="26" fill="#111827" stroke="#1f2a44"/><circle cx="30" cy="26" r="16" fill="#0a66c2" stroke="#1f2a44"/><text x="30" y="31" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">in</text><text x="58" y="31" font-size="15" font-weight="600" fill="#e5e7eb">LinkedIn</text><text x="184" y="31" font-size="15" fill="#94a3b8" text-anchor="middle">↗</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="52" viewBox="0 0 210 52" role="img"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#7c3aed" />
+            <stop offset="1" stop-color="#06b6d4" />
+        </linearGradient>
+    </defs>
+    <rect x=".5" y=".5" width="209" height="51" rx="26" fill="#111827" stroke="#1f2a44" />
+    <defs>
+        <clipPath id="iconClip">
+            <circle cx="30" cy="26" r="16" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#iconClip)">
+        <image
+            href="data:image/png;base64,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"
+            x="14" y="10" width="32" height="32" preserveAspectRatio="xMidYMid slice" />
+    </g>
+    <text x="30" y="31" font-size="13" font-weight="800" fill="#fff" text-anchor="middle"></text>
+    <text x="58" y="31" font-size="15" font-weight="600" fill="#e5e7eb">LinkedIn</text>
+    <text x="184" y="31" font-size="15" fill="#94a3b8" text-anchor="middle">↗</text>
+</svg>

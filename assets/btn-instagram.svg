@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="210" height="52" viewBox="0 0 210 52" role="img" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs><rect x=".5" y=".5" width="209" height="51" rx="26" fill="#111827" stroke="#1f2a44"/><circle cx="30" cy="26" r="16" fill="#e4405f" stroke="#1f2a44"/><text x="30" y="31" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">ig</text><text x="58" y="31" font-size="15" font-weight="600" fill="#e5e7eb">Instagram</text><text x="184" y="31" font-size="15" fill="#94a3b8" text-anchor="middle">↗</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="52" viewBox="0 0 210 52" role="img"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#7c3aed" />
+            <stop offset="1" stop-color="#06b6d4" />
+        </linearGradient>
+    </defs>
+    <rect x=".5" y=".5" width="209" height="51" rx="26" fill="#111827" stroke="#1f2a44" />
+    <defs>
+        <clipPath id="iconClip">
+            <circle cx="30" cy="26" r="16" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#iconClip)">
+        <image
+            href="data:image/png;base64,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"
+            x="14" y="10" width="32" height="32" preserveAspectRatio="xMidYMid slice" />
+    </g>
+    <text x="30" y="31" font-size="13" font-weight="800" fill="#fff" text-anchor="middle"></text>
+    <text x="58" y="31" font-size="15" font-weight="600" fill="#e5e7eb">Instagram</text>
+    <text x="184" y="31" font-size="15" fill="#94a3b8" text-anchor="middle">↗</text>
+</svg>

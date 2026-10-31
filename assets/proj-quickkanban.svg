@@ -1,1 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160" role="img" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient><linearGradient id="pg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#42b883"/><stop offset="1" stop-color="#0089ff"/></linearGradient></defs><rect x=".5" y=".5" width="439" height="159" rx="18" fill="#111827" stroke="#1f2a44"/><rect x="20" y="20" width="48" height="48" rx="14" fill="url(#pg)"/><text x="44" y="52" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">Q</text><text x="82" y="42" font-size="17" font-weight="700" fill="#e5e7eb">Quick Kanban</text><text x="82" y="61" font-size="11.5" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">open source</text><circle cx="404" cy="44" r="16" fill="#0f172a" stroke="#1f2a44"/><text x="404" y="49" font-size="15" fill="#e5e7eb" text-anchor="middle">↗</text><text x="20" y="92" font-size="13" fill="#94a3b8">A faster Vue-based Kanban for Frappe, built for high</text><text x="20" y="111" font-size="13" fill="#94a3b8">card volume and frequent updates.</text><rect x="20" y="124" width="59.8" height="24" rx="12.0" fill="#0f172a" stroke="#1f2a44"/><circle cx="36" cy="136.0" r="4" fill="#42b883"/><text x="48.0" y="140.0" font-size="11" fill="#e5e7eb" font-weight="500">Vue</text><rect x="87.8" y="124" width="79.6" height="24" rx="12.0" fill="#0f172a" stroke="#1f2a44"/><circle cx="103.8" cy="136.0" r="4" fill="#42b883"/><text x="115.8" y="140.0" font-size="11" fill="#e5e7eb" font-weight="500">Frappe</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160" role="img"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#7c3aed" />
+            <stop offset="1" stop-color="#06b6d4" />
+        </linearGradient>
+        <linearGradient id="pg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#f97316" />
+            <stop offset="1" stop-color="#ec4899" />
+        </linearGradient>
+        <clipPath id="logoClip">
+            <rect x="20" y="20" width="48" height="48" rx="14" />
+        </clipPath>
+    </defs>
+    <rect x=".5" y=".5" width="439" height="159" rx="18" fill="#111827" stroke="#1f2a44" />
+    <g clip-path="url(#logoClip)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAE5ElEQVR42tWazWtUVxjGf+891zBp3ASFQrUVVGiJzkKkkYZ05daVTaC7Flw2gl2IRfo/tIF214Xtrnbrzp2K0hbpxtoWxI2CFcSZZCbzkZk7TxeeOxynkzj33hkTXzjMx/04z3POec/7dYyMIikCzMyS4L/3gUXgI6AMHABmgZK/pQVUgMfAPeAOcMvM/gne4QCZWY9JiCTznaS/D0q6IOmmpA1llw1JN/w7DoZEJNm4wUfB9yOSvpe0NgAokdT1n70hgHsD94RSlfSdpCPD+iwK3vnPWNLXA8A72wB+laSEOsF/a76POOy7CPj0Rccl3RkAngf0dmRCInckHQ8xFAG/JGl9QsC3I7IuaSkXiQD8SvDyrl6fhH19kYnEEPDDlO51SBIQWRmJRKCwSwH4nnZOwiX1yTDFtnDbMrOepDngN2DaX4rYWUkNWxOYN7P7KdY+AW84It9+BU4ACeDYHZJi+QM45Un1zKxvLCLvGlz04LtZwUvK1UYU5zGdAC56rBGAeYsn4CBwH3jLz4yxu0S+NYA571dZ7Ee/K+kSsNczjbOOfqfTyYUqjmOiaCQ1M7+U9gKXzGxFkkt14G3gATAzqNyvAm5mPHv2jOXlZWq1GnEcj7Q0nHOsr6+zurrK6dOnSZIE59woswCwARw1s6fpSH+ad/QBkiTh4cOHrK2tZSJQrVap1+tZujKPca/HvJqCXfbsLKfbQbfbpdvt9n+P+kwGRQ5JyGNejSUdBU76C7n2/KmpKebn59nY2Bh5BqIool6vs2/fvheobOSxizzWk5KOmqRzwA9+b414MyTFei7yYWCoIEXc74neP0SZFyLgeJadZ9vFaTbR+4e4QMdi4N1xEEiSpL+tjjr6zrm8JNKH3jNJG976vonSMElJUeVtNptcu3aNTqcz0oiaGZubmywuLnL48OFMM/c/ZS4SrPR6L0KFJ0+eaP/+/dqzZ4+mp6dVKpW2bTMzMwJ05cqVF0FHN3ewl8RAO/D9cyvv7Owszrm+HYiiaMtRdc4xNTVFqVQquoRasc+YTRexxKkSJ0nSB91sNmm320O3yziOqdVq/es5t1EDKjHwCHinKIHQwtZqNc6cOcPS0hKbm5v/c9JSHVhYWOg/k5PA49jnKk+Nw5ClYNrtNuVymbNnz07KHqRY70XA7XEZshBQq9UiSRLa7XZ/eQ22ApY4xXo7Bm747HFpXMsoJeGc6xusMUdmkQ/yb0Rm9gC46y9MJrU9fkdOwF0ze5Bqz9XAz97tkq6SX8Kcz1Wg7qP/XCSccy+1HDvLqOCdx/ozQCQpNrN/gZ+CwDmzW1ytVqlUKlQqFRqNBo1GY1L5IQN+NLOnkuLBtMpf3qhlSqu0Wi2uX79Op9PBOUer1WJubo5yuVzEzxkprTKYE70cpNF3m6SYLoeYx5ZaTJLkpSUVRdE49WDL1OJWyd3fgwrjbknutoAPB5O7UWB4epKcmd0HPvfXeju8tSoI4D/z4N22pdigwHF+FxU4zhet0uxkiWmlaJ1seQeLfMvjqlSWd6DMWi4EfotC91eSnk+w0P3c9zGeQvcWRw0OSfpWUmWMRw0qkr6RdGjsRw3Y+rDHAUlfSrolqZFjBhr+2QuSDgzOeNbIJutsRGbWDf77APjYW8ljPts37LjNI+BPb+1vmtnfA/rWy3rc5j/bjVojiRY+mgAAAABJRU5ErkJggg=="
+            x="20" y="20" width="48" height="48" preserveAspectRatio="xMidYMid slice" />
+    </g>
+    <text x="82" y="42" font-size="17" font-weight="700" fill="#e5e7eb">Quick Kanban</text>
+    <text x="82" y="61" font-size="11.5" fill="#94a3b8"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">open source</text>
+    <circle cx="404" cy="44" r="16" fill="#0f172a" stroke="#1f2a44" />
+    <text x="404" y="49" font-size="15" fill="#e5e7eb" text-anchor="middle">↗</text>
+    <text x="20" y="92" font-size="13" fill="#94a3b8">A faster Vue-based Kanban for Frappe, built
+        for high</text>
+    <text x="20" y="111" font-size="13" fill="#94a3b8">card volume and frequent updates.</text>
+    <rect x="20" y="124" width="59.8" height="24" rx="12.0" fill="#0f172a" stroke="#1f2a44" />
+    <circle cx="36" cy="136.0" r="4" fill="#42b883" />
+    <text x="48.0" y="140.0" font-size="11" fill="#e5e7eb" font-weight="500">Vue</text>
+    <rect x="87.8" y="124" width="79.6" height="24" rx="12.0" fill="#0f172a" stroke="#1f2a44" />
+    <circle cx="103.8" cy="136.0" r="4" fill="#42b883" />
+    <text x="115.8" y="140.0" font-size="11" fill="#e5e7eb" font-weight="500">Frappe</text>
+</svg>
