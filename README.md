@@ -39,10 +39,10 @@
 
 <img src="assets/h-activity.svg" alt="Activity" width="100%" />
 
-<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=pu-raihan&count_private=true&show_icons=true&rank_icon=github&hide_border=false&border_radius=18&bg_color=111827&border_color=1f2a44&title_color=a78bfa&text_color=e5e7eb&icon_color=06b6d4&ring_color=7c3aed" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pu-raihan&hide=HTML&langs_count=8&layout=compact&border_radius=18&bg_color=111827&border_color=1f2a44&title_color=a78bfa&text_color=e5e7eb&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=pu-raihan&count_private=true&show_icons=true&rank_icon=github&hide_border=false&border_radius=18&bg_color=000000&border_color=2a2a2a&title_color=facc15&text_color=f5f5f5&icon_color=fbbf24&ring_color=facc15" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pu-raihan&hide=HTML&langs_count=8&layout=compact&border_radius=18&bg_color=000000&border_color=2a2a2a&title_color=facc15&text_color=f5f5f5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
 
-<img height="170" src="https://streak-stats.demolab.com/?user=pu-raihan&count_private=true&border_radius=18&background=111827&stroke=1f2a44&ring=7c3aed&fire=06b6d4&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=94a3b8" alt="Streak stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=pu-raihan&count_private=true&border_radius=18&background=000000&stroke=2a2a2a&ring=facc15&fire=fbbf24&currStreakNum=f5f5f5&sideNums=f5f5f5&currStreakLabel=facc15&sideLabels=d4d4d4&dates=d4d4d4" alt="Streak stats" />
 
 <br/>
 
